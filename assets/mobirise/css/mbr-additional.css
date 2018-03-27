@@ -6,14 +6,14 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #60f1f7;
+  background: #ffffff;
 }
 #menu-0 .mbr-navbar__hamburger {
-  color: #60f1f7;
+  color: #ffffff;
 }
 #menu-0 .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 #header1-1 H1 {
   font-family: 'Indie Flower', cursive;
@@ -31,14 +31,14 @@
   font-size: 16px;
 }
 #menu-h.mbr-navbar--stuck .mbr-navbar__section {
-  background: #60f1f7;
+  background: #ffffff;
 }
 #menu-h .mbr-navbar__hamburger {
-  color: #60f1f7;
+  color: #ffffff;
 }
 #menu-h .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 
@@ -54,7 +54,7 @@
 }
 #menu-j .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 #slider-17 H1 {
   font-family: 'Indie Flower', cursive;
@@ -68,30 +68,47 @@
   font-size: 30px;
 }
 
+
 #menu-k .mbr-brand__name {
   font-size: 16px;
 }
 #menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #60f1f7;
+  background: #ffffff;
 }
 #menu-k .mbr-navbar__hamburger {
-  color: #60f1f7;
+  color: #ffffff;
 }
 #menu-k .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+}
+#testimonials1-1g .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
+
+
 
 #menu-l .mbr-brand__name {
   font-size: 16px;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #60f1f7;
+  background: #ffffff;
 }
 #menu-l .mbr-navbar__hamburger {
-  color: #60f1f7;
+  color: #ffffff;
 }
 #menu-l .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
+}
+#form1-1a .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
+  color: #f97352;
+}
+#form1-1a .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
 }
