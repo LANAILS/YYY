@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -142,8 +142,8 @@
             "thirdType": "favorite",
             "fourthType": "orange",
             "fifthType": "hidden",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
@@ -198,7 +198,7 @@
           "_params": {
             "fullWidth": true,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "noGutter": false,
             "showText": false,
             "showBullets": true,
@@ -369,20 +369,6 @@
             }
           },
           "_anchor": "form1-1q"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1s"
         },
         {
           "_params": {
@@ -720,6 +706,20 @@
               "text": "<p class=\"mbr-reviews__p\">哇，什么时候开业啊！</p>"
             }
           ]
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1s"
         },
         {
           "_params": {
