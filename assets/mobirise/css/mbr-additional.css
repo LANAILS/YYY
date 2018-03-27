@@ -6,10 +6,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #60f1f7;
 }
 #menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #60f1f7;
 }
 #menu-0 .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
@@ -31,15 +31,17 @@
   font-size: 16px;
 }
 #menu-h.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #60f1f7;
 }
 #menu-h .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #60f1f7;
 }
 #menu-h .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
+
+
 
 #menu-j .mbr-brand__name {
   font-size: 16px;
@@ -54,15 +56,26 @@
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
+#slider-17 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+  color: #3d8eb9;
+  text-align: left;
+}
+#slider-17 P {
+  color: #3d8eb9;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
 
 #menu-k .mbr-brand__name {
   font-size: 16px;
 }
 #menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #60f1f7;
 }
 #menu-k .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #60f1f7;
 }
 #menu-k .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
@@ -73,10 +86,10 @@
   font-size: 16px;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #60f1f7;
 }
 #menu-l .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #60f1f7;
 }
 #menu-l .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
