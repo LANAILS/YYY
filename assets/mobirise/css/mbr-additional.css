@@ -17,11 +17,11 @@
 }
 #header1-1 H1 {
   font-family: 'Indie Flower', cursive;
-  color: #0df1fa;
+  color: #3c3c3c;
   font-size: 60px;
 }
 #header1-1 P {
-  color: #0df1fa;
+  color: #3c3c3c;
   font-family: 'Indie Flower', cursive;
   font-size: 36px;
   text-align: center;
@@ -38,7 +38,7 @@
 }
 #menu-h .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 

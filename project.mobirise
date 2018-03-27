@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -112,7 +112,7 @@
             "overlayOpacity": "0"
           },
           "title": "TRIPLE YYY NAILS SALON",
-          "text": "Ground OPen<br>2018<br>Call xxx-xxx-xxx for more details!",
+          "text": "Ground OPen<br>2018<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -123,11 +123,11 @@
             "H1": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#0df1fa",
+              "color": "#3c3c3c",
               "font-size": "60px"
             },
             "P": {
-              "color": "#0df1fa",
+              "color": "#3c3c3c",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "36px",
@@ -159,7 +159,7 @@
             ".mbr-navbar__items a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -172,7 +172,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">SERVICE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PROMOTION</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RESERVATION</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">ADDRESS<br><br></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#pricing-table1-i\">SERVICE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PROMOTION</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">RESERVATION</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
