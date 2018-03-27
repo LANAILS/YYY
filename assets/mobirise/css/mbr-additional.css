@@ -8,9 +8,6 @@
 
 
 
-
-
-
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -55,25 +52,12 @@
   font-family: 'Indie Flower', cursive;
   font-size: 16px;
 }
-#testimonials1-1t .mbr-section__header {
-  text-align: center;
+#msg-box1-1z .mbr-header .mbr-header__text {
+  color: #fff;
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
 }
-#testimonials1-1u .mbr-section__header {
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-}
-#testimonials1-1v .mbr-section__header {
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-}
-#testimonials1-1w .mbr-section__header {
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+#msg-box1-1z .mbr-article {
+  color: #fff;
 }
 #testimonials1-1x .mbr-section__header {
   text-align: center;
@@ -85,7 +69,7 @@
   font-size: 16px;
 }
 #menu-h.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #c1c1c1;
 }
 #menu-h .mbr-navbar__hamburger {
   color: #ffffff;
@@ -148,6 +132,11 @@
 }
 
 
+#testimonials1-1g .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
 #menu-k .mbr-brand__name {
   font-size: 16px;
 }
@@ -160,9 +149,4 @@
 #menu-k .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
   font-size: 25px;
-}
-#testimonials1-1g .mbr-section__header {
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
 }
