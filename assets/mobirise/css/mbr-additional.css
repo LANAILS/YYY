@@ -2,11 +2,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #c1c1c1;
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -26,6 +35,51 @@
   font-size: 36px;
   text-align: center;
 }
+#slider-1p H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+  color: #3d8eb9;
+  text-align: left;
+}
+#slider-1p P {
+  color: #3d8eb9;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#form1-1q .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
+  color: #f97352;
+}
+#form1-1q .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#testimonials1-1t .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#testimonials1-1u .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#testimonials1-1v .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#testimonials1-1w .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#testimonials1-1x .mbr-section__header {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
 
 #menu-h .mbr-brand__name {
   font-size: 16px;
@@ -38,7 +92,7 @@
 }
 #menu-h .mbr-navbar__items a {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 
@@ -47,7 +101,7 @@
   font-size: 16px;
 }
 #menu-j.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #c1c1c1;
 }
 #menu-j .mbr-navbar__hamburger {
   color: #ffffff;
@@ -74,7 +128,7 @@
   font-size: 16px;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #c1c1c1;
 }
 #menu-l .mbr-navbar__hamburger {
   color: #ffffff;
@@ -98,7 +152,7 @@
   font-size: 16px;
 }
 #menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #c1c1c1;
 }
 #menu-k .mbr-navbar__hamburger {
   color: #ffffff;
